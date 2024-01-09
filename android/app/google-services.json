@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055648734370",
+    "project_id": "uno-chat-6a472",
+    "storage_bucket": "uno-chat-6a472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055648734370:android:105c21bb69786b921dcbfb",
+        "android_client_info": {
+          "package_name": "com.example.uno_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQn6i0LvQdJhBXwNURPVszkGzE8-8U_8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
